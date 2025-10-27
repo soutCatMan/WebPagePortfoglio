@@ -15,3 +15,11 @@ HTML • CSS • JavaScript • PHP • MySQL • Bootstrap
 
 ## 👤 Autore
 Progetto realizzato da **Patrick Zin** (5° Informatica)
+
+## How to Start
+-Installa Xampp
+-Configuralo per il tuo PC
+-Avvialo e avvia Apache e MySQL
+-Inserisci nella cartella htdocs di xampp il progetto scaricato da questa repository
+-Inserisci nella barra degli indirizzi di qualsiasi browser questo prompt "http://localhost/nomecartelladihtdocs"
+-premi invio ed esplora
